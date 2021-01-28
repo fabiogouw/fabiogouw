@@ -1,4 +1,9 @@
-### Hi there 👋
+# Fabio Gouw
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiogouw/)](https://www.linkedin.com/in/fabiogouw/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/fabiogouw/)](https://twitter.com/fabiogouw/)
+
+### Olá, pessoal! Sejam bem-vindos ao meu perfil no GitHub!
 
 <!--
 **fabiogouw/fabiogouw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
